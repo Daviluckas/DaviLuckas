@@ -1,12 +1,4 @@
 # Hi, I'm Davi 👋
-I'm Davi, a front-end developer with a primary focus on web development. Always looking to learn everything related to computers, I enjoy living in this world of computing. <br>
-💙 Tech student by IFRN - CA
-
-## ⚡️ Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviLuckas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLuckas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="175em" />
-</p>
 
 ## ⚒️ Languages and tools
 ### 💻 Languages

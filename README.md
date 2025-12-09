@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Davi 👋
+I'm Davi, a front-end developer with a primary focus on web development. Always looking to learn everything related to computers, I enjoy living in this world of computing. <br>
+💙 Tech student by IFRN - CA
 
-<!--
-**Daviluckas/DaviLuckas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡️ Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviLuckas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLuckas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="175em" />
+</p>
 
-Here are some ideas to get you started:
+## ⚒️ Languages and tools
+### 💻 Languages
+[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,mysql)](https://skillicons.dev)
+### 🔧 Tools and extras
+[![Tools and extras](https://skillicons.dev/icons?i=linux,git,github,unity,figma)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--![DaviLuckas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moisesln&theme=tokyonight&hide_border=true) -->

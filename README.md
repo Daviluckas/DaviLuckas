@@ -7,3 +7,4 @@
 [![Tools and extras](https://skillicons.dev/icons?i=linux,git,github,unity,figma)](https://skillicons.dev)
 
 <!--![DaviLuckas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moisesln&theme=tokyonight&hide_border=true) -->
+![snake gif](https://github.com/DaviLuckas/DaviLuckas/blob/output/github-contribution-grid-snake.svg)

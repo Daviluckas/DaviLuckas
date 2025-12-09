@@ -6,5 +6,4 @@
 ### 🔧 Tools and extras
 [![Tools and extras](https://skillicons.dev/icons?i=linux,git,github,unity,figma)](https://skillicons.dev)
 
-<!--![DaviLuckas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moisesln&theme=tokyonight&hide_border=true) -->
-![snake gif](https://github.com/Daviluckas/DaviLuckas/tree/main/.github/workflows/github-contribution-grid-snake.svg)
+<!--![DaviLuckas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviLuckas&theme=tokyonight&hide_border=true) -->

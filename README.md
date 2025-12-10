@@ -1,5 +1,7 @@
 # Hi, I'm Davi 👋
 
+🖥️Me chamo Davi, atualmente estudo no IFRN. E sou viciado em tudo no meio da programação. Bem vindo ao meu mundo!🩵
+
 ## ⚒️ Languages and tools
 ### 💻 Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,mysql)](https://skillicons.dev)

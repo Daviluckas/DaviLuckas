@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Lucas;I'm+17+years+old;I'm+from+Brazil;I+Study+Computer+Science+For+The+Internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaviLuckas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLuckas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="175em" />
 </p>

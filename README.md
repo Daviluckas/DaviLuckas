@@ -20,7 +20,7 @@
 
 ## ⚒️ Languages and tools
 ### 💻 Languages
-[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,mysql)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,dart,mysql)](https://skillicons.dev)
 ### 🔧 Tools and extras
 [![Tools and extras](https://skillicons.dev/icons?i=linux,git,github,unity,figma,notion)](https://skillicons.dev)
 
